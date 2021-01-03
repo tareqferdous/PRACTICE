@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+*{
+	padding: 0;
+	margin: 0;
+}
+}
+body{
+	background-size: cover;
+	color:black;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+	width:1140px;
+	height: 100vh;
+	margin:0 auto;
+	background-color:white;
+}
+.header{
+	background-color: #753661;
+	padding-bottom: 10px;
+}
+.new{
+	display: block;
+	margin: 0 auto;
+}
+.header .center{
+	text-align: center;
+	    Color: white;
+}
+.header .new{
+	height: 219px;
+    width: 223px;
+    display: block;
+    margin: 15px auto;
+    border: 5px solid #aab5b1;
+    border-radius: 100%;
+    margin-right: 107px;
+    margin-top: 0px;
+    margin-bottom: 29px;
+    position: relative;
+    top: 20px;
+}
+.class2{
+	text-align: center;
+	position: relative;
+}
+.class2 hr{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.half{
+	background-color:#d9d3de;
+	padding-left: 20px;
+ }
+.div2{
+	position:absolute;
+	top: 157px;
+    right: 70%;
+    color: azure;
+}
+.qualification{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.qualification th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 35px;
+  text-align: left;
+  background-color: #753661;
+  color: white;
+}
+.qualification td{
+	border: 1px solid #ddd;
+	padding: 10px;
+	padding-left: 35px;
+}
+.personal-table{
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.personal-table th{
+	padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 35px;
+  text-align: left;
+  background-color: #d9d3de;
+  color: black;
+}
+.personal-table td{
+	border: 1px solid #ddd;
+	padding: 10px;
+	padding-left: 35px;
+}
+.text-color h2{
+	padding-bottom: 7px;
+}
+
+.text-color{
+	color:black;
+}
+.text-color2{
+	color:purple;
+}
+.text-color3{
+	color:purple;
+}
+.text-color4{
+	color:purple;
+}
+.text-color5{
+	color:purple;
+}
+.text-color6{
+	color:purple;
+}
+.text-color7{
+	color:purple;
+}
+.text-profile{
+	color:purple;
+}
+.title{
+	    color: white;
+    position: absolute;
+    right: 804px;
+    top: 97px;
+}
+ol {
+    
+    padding-left: 20PX;
+}
+ul{
+	padding-left: 20px;
+}
+h2{
+	text-align: center;
+	background-color: #753661;
+}
+.h2-css{
+	background-color: white;
+	padding: 10px;
+}
